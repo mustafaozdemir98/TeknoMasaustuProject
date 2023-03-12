@@ -1,0 +1,11 @@
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\bin\Debug\TeknoMasaustuProject.pdb
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.csproj.AssemblyReference.cache
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.Form1.resources
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.Properties.Resources.resources
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.csproj.GenerateResource.cache
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.pdb
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\bin\Debug\TeknoMasaustuProject.exe.config
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\bin\Debug\TeknoMasaustuProject.exe
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa Özdemir\source\repos\TeknoMasaustuProject\TeknoMasaustuProject\obj\Debug\TeknoMasaustuProject.exe
